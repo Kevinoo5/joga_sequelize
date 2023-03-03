@@ -22,6 +22,7 @@ queryInterface.bulkInsert('articles', [{
       "\n" +
       "<p>Suspendisse congue mi sit amet turpis placerat fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta libero orci, sed facilisis libero lobortis vel. Donec vel metus lacus. Duis venenatis interdum dui, vitae maximus erat laoreet id. Sed ac consectetur urna. Donec at nisl aliquam, euismod diam nec, blandit felis.</p>",
   published: "2021-02-24 11:42:11",
+    author_id: 1,
   createdAt: new Date(),
   updatedAt: new Date()
 }]),
@@ -43,6 +44,7 @@ queryInterface.bulkInsert('articles', [{
             "\n" +
             "<p>Suspendisse congue mi sit amet turpis placerat fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta libero orci, sed facilisis libero lobortis vel. Donec vel metus lacus. Duis venenatis interdum dui, vitae maximus erat laoreet id. Sed ac consectetur urna. Donec at nisl aliquam, euismod diam nec, blandit felis.</p>",
         published: "2021-02-24 11:42:11",
+        author_id: 3,
         createdAt: new Date(),
         updatedAt: new Date()
       }]),
@@ -64,6 +66,7 @@ queryInterface.bulkInsert('articles', [{
             "\n" +
             "<p>Suspendisse congue mi sit amet turpis placerat fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta libero orci, sed facilisis libero lobortis vel. Donec vel metus lacus. Duis venenatis interdum dui, vitae maximus erat laoreet id. Sed ac consectetur urna. Donec at nisl aliquam, euismod diam nec, blandit felis.</p>",
         published: "2021-04-16 15:24:18",
+        author_id: 1,
         createdAt: new Date(),
         updatedAt: new Date()
       }]),
